@@ -9,7 +9,7 @@ export default function Home() {
     <Menu/>
     <ToolBox />
     <Board/>
-    Copyright ARYAn
+    
     </>
   );
 }
